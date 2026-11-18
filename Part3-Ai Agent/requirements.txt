@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langchain-huggingface
+sentence-transformers
+python-dotenv
+tavily-python
+requests
+rich
